@@ -1,0 +1,17 @@
+{
+  "name": "jade-convert-with-gulp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-jade": "~0.4.1",
+    "gulp-util": "~2.2.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masaaki Komori",
+  "license": "MIT"
+}
